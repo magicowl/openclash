@@ -2,6 +2,6 @@
 # 格式: 规则类型,域名
 # 支持: DOMAIN (精确匹配), DOMAIN-SUFFIX (后缀匹配), DOMAIN-KEYWORD (关键词匹配)
 
-# 视频网站
-DOMAIN-SUFFIX,xiaoyakankan.com
-DOMAIN-KEYWORD,fengbao
+# 例子先都注释掉
+# DOMAIN-SUFFIX,xiaoyakankan.com
+# DOMAIN-KEYWORD,fengbao
